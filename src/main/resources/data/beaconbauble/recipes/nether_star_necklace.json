@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "C",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "beaconbauble:obsidian_chain"
+    },
+    "B": {
+      "item": "beaconbauble:inhibited_nether_star"
+    },
+    "C": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "beaconbauble:nether_star_necklace",
+    "count": 1
+  }
+}

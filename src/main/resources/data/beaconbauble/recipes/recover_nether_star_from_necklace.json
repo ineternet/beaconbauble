@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "beaconbauble:nether_star_necklace"
+    }
+  ],
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 1
+  }
+}

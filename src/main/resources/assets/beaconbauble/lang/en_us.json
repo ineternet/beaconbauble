@@ -1,0 +1,14 @@
+{
+  "item.beaconbauble.obsidian_chain": "Obsidian Chain",
+  "item.beaconbauble.inhibited_nether_star": "Inhibited Nether Star",
+  "item.beaconbauble.beacon_amplifier_matrix": "Beacon Amplifier Matrix",
+  "item.beaconbauble.nether_star_necklace": "Nether Star Necklace",
+
+  "itemGroup.beaconbauble": "Beacon Bauble",
+
+  "tooltip.beaconbauble.nether_star_necklace": "Beacon level: %s",
+  "tooltip.beaconbauble.upgrade_instructions": "Sneak click beacon base to upgrade",
+
+  "container.beaconbauble.item_beacon": "Beacon (item)",
+  "container.beaconbauble.upgrade_beacon": "Beacon upgrades"
+}
